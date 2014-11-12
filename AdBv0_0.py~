@@ -1,4 +1,4 @@
-vers="0.2"
+vers="0.1"
 
 print "Algoritmo del Banchiere versione",vers
 n=input('inserisci il numero di risorse ')
